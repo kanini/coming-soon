@@ -1,4 +1,4 @@
-This is a HTML5 'Coming Soon' page with simple, responsive design.
+HTML5 'Coming Soon' page with a simple, responsive design.
 
 ## Build
 There is no build.
@@ -11,4 +11,3 @@ cd coming-soon
 npm install --global http-server
 http-server # defaults to port 8080, http://localhost:8080/index.html
 ```
-
